@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "772448193014",
+    "firebase_url": "https://resto-2299d.firebaseio.com",
+    "project_id": "resto-2299d",
+    "storage_bucket": "resto-2299d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772448193014:android:ff5c13157609f6718bdfd7",
+        "android_client_info": {
+          "package_name": "com.example.flutter_restro_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772448193014-n5atrkatd98ujv12f9qvho2tcso5dbko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_restro_app",
+            "certificate_hash": "074b2cd772f53acab5437ac3adf960a5f1d22294"
+          }
+        },
+        {
+          "client_id": "772448193014-85s80r97chu3f95aevfkcrej5vhnbnbn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDL-6Ncpl0RehJT_FFLkVd-nt9TQO3wKg8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772448193014-85s80r97chu3f95aevfkcrej5vhnbnbn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
